@@ -61,3 +61,9 @@ I use these as the baseline for any service:
 | Error rate | < 0.1% | > 1% for 5m |
 
 These are deliberately conservative starting points. The right numbers depend on the service — internal tooling can have looser targets than customer-facing APIs.
+
+---
+
+## Architecture
+
+The full architecture diagram is in [architecture.drawio](./architecture.drawio). Open it at [app.diagrams.net](https://app.diagrams.net) — File → Open from Device → select the file.
